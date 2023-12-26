@@ -1,5 +1,5 @@
 # Chorus-Flanger
-Delay &amp; Chorus/Flanger audio plugins made using JUCE
+Delay &amp; Chorus/Flanger audio plugins made using JUCE (C++)
 
 Delay Demo:
 
